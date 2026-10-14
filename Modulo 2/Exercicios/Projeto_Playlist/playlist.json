@@ -1,0 +1,58 @@
+{
+    "estilo":{
+        "Rock" : {
+            "Artistas": {
+                "Bon Jovi" : {
+                    "música" :"https://youtu.be/NvR60Wg9R7Q?si=onh7g2eMHt8pnpjj" ,
+                    "sobre" : "bon_jovi.txt"
+                },
+                
+                "Beatles" : {
+                    "música" : "https://youtu.be/EyHKuyGsu4U?si=9vrvWJB3CmpBfrIQ",
+                    "sobre" : "beatles.txt"
+                } 
+            
+                }
+                
+            },
+        
+        "mpb" : {
+            "Artistas" : {
+                "Elis Regina" : {
+                    "música" : "https://youtu.be/pmY-TIOjQJ4?si=zs870vqrUMnKYnXS",
+                    "sobre" : "elis_regina.txt"
+                },
+
+                "Gal Costa" : {
+                    "música" : "https://youtu.be/P3OZsKIcjdQ?si=DW4XH9YnXEFDvT8o",
+                    "sobre" : "gal_costa.txt"
+                }
+            }
+        },
+        "hip-hop" : {
+            "Artistas" : {
+                "Eminem" : {
+                    "música" : "https://youtu.be/YVkUvmDQ3HY?si=Gnq2Xd1Q7Ky7Il7O",
+                    "sobre" : "eminem.txt"
+                }
+            }
+        },
+        "rap" : {
+            "Artistas" : {
+                "509-E" : {
+                    "música" : "https://youtu.be/Q-6oxgFX6Ho?si=9k_pfeW2quYCKn_q",
+                    "sobre" : "509-E.txt"
+                }
+            }
+        },
+        "pop" : {
+            "Artistas" : {
+                "Rihanna" : {
+                    "música" : "https://youtu.be/puxjq3p-fU0?si=gPKnnsVTM8U4FvSF",
+                    "sobre" : "rihanna.txt"
+                }
+            }
+        }
+        }
+    }
+
